@@ -1,1 +1,1 @@
-A file based on running c
+A file based on running c according to betty style
