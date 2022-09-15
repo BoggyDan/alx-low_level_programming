@@ -1,4 +1,3 @@
-/* for isupper() */
 #include <ctype.h>
 #include "main.h"
 
