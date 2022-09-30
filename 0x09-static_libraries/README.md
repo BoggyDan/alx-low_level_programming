@@ -6,16 +6,16 @@ Project done during Full Stack Software Engineering studies at Holberton School.
 
 *All of the following files are scripts and programs written in C:*
 
-- libmy.a
+- libmy.a file
 
 Static library that contains a lot of functions
 
 
-- create_static_lib.sh
+- create_static_lib.sh file
 
 Script that creates a static library called liball.a from all the .c files that are in the current directory
 
 
-- main.h
+- main.h file
 
 Header file that contains all the prototypes of the used functions
