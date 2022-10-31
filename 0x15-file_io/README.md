@@ -1,0 +1,1 @@
+**A directory that contains c codes that perform the function of creating , reading, and writing files**
